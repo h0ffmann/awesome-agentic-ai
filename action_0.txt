@@ -1,0 +1,9 @@
+Create a extense and solid knowledge base in markdown file like https://github.com/vinta/awesome- https://github.com/lauris/awesome-scala called Awesome Agentic AI, it should contain list of products, open source github repositories, courses and books on the subject... It should also contain news and Manus AI should be listed (and hot similar products or repositories). The repository list should be a list with most common features for agentic tool (ie: BrowserTool, GitHub Tool, DocumentParser Tool) to be able to compare both open source, closed source projects
+(1) Define the concept of "Agentic AI" and its key characteristics to establish a clear scope for the knowledge base.
+(2) Search for commercially available products categorized as "Agentic AI" or offering agentic capabilities.
+(3) Explore GitHub and similar platforms for open-source repositories related to "Agentic AI", focusing on projects that provide agentic functionalities.
+(4) Identify online courses, academic programs, and published books that cover the topic of "Agentic AI".
+(5) Find recent news articles, blog posts, and research papers discussing advancements and trends in "Agentic AI".
+(6) Specifically research "Manus AI" to understand its features and applications within the "Agentic AI" landscape.
+(7) Identify products and open-source repositories that are similar to "Manus AI" in terms of their functionalities and target use cases.
+(8) For the identified open-source repositories, list and categorize their common features, such as BrowserTool, GitHub Tool, and DocumentParser Tool, to facilitate comparison.
